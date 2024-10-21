@@ -3,7 +3,7 @@ atividades da disciplina de web 1 (parte de HTML)
 
 ### Atividades:
 
-- [Atividade1]  (/Atividade1.html)
+- [Atividade1](/main/Atividade1.html)
 - [Atividade2]  (/Atividade2.html)
 - [Atividade3]  (/Atividade3.html)
 - [Atividade4]  (/Atividade4.html)
