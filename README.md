@@ -10,5 +10,6 @@ atividades da disciplina de web 1 (parte de HTML)
 - [Atividade5](Atividade5.html)
 - [Atividade6](Atividade6.html)
 - [Atividade7](Atividade7.html)
-
+- [Atividade8](Atividade8.html)
+- [Atividade9](Atividade9.html)
 
